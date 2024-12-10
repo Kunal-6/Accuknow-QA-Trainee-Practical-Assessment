@@ -1,1 +1,1 @@
-# Accuknow-QA-Trainee-Practical-Assessment
+# Accuknox-QA-Trainee-Practical-Assessment
